@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import { AWlogo } from "../assets/AWlogo";
 
 const Wrapper = styled.div`
   height: 100vh;
@@ -22,18 +21,14 @@ const ImgContainer = styled.div`
   display: inline-block;
   width: 48px;
   margin-top: 48px;
-
-  .AWlogo {
-    fill: #a9c01b;
-  }
 `;
 
 const About = () => (
   <Wrapper>
     <h1>Hi, I'm Ash</h1>
     <p>
-      Or Ashley if you prefer. Front-end engineer making cool things in Austin,
-      TX.{" "}
+      Software engineer specializing in User Experience and Front-End
+      development while making all kinds of cool things in Austin, TX.{" "}
     </p>
     <p>
       Please look around, check out my{" "}
@@ -55,9 +50,7 @@ const About = () => (
       , or feel free to <a href="#">contact me</a>. Don't hesitate to ask any
       questions, y'all.
     </p>
-    <ImgContainer>
-      <AWlogo />
-    </ImgContainer>{" "}
+    <ImgContainer />{" "}
   </Wrapper>
 );
 
