@@ -13,7 +13,15 @@ const Wrapper = styled.div`
     text-align: left;
   }
 
-  @keyframes ash {
+  @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    padding-top: 64px;
+    justify-content: flex-start;
+    margin: 0 32px;
+    font-size: 24px;
+
+    h1 {
+      font-size: 64px;
+    }
   }
 `;
 
