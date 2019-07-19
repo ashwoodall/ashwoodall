@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ashwoodall.github.io/static/css/main.87708951.chunk.css",
+    "main.js": "/ashwoodall.github.io/static/js/main.dacef166.chunk.js",
+    "main.js.map": "/ashwoodall.github.io/static/js/main.dacef166.chunk.js.map",
+    "runtime~main.js": "/ashwoodall.github.io/static/js/runtime~main.e832bd00.js",
+    "runtime~main.js.map": "/ashwoodall.github.io/static/js/runtime~main.e832bd00.js.map",
+    "static/js/2.59a9989c.chunk.js": "/ashwoodall.github.io/static/js/2.59a9989c.chunk.js",
+    "static/js/2.59a9989c.chunk.js.map": "/ashwoodall.github.io/static/js/2.59a9989c.chunk.js.map",
+    "index.html": "/ashwoodall.github.io/index.html",
+    "precache-manifest.71ea8fb922aa040c9e591c07c63b4951.js": "/ashwoodall.github.io/precache-manifest.71ea8fb922aa040c9e591c07c63b4951.js",
+    "service-worker.js": "/ashwoodall.github.io/service-worker.js",
+    "static/css/main.87708951.chunk.css.map": "/ashwoodall.github.io/static/css/main.87708951.chunk.css.map",
+    "static/media/codepenLogo.svg": "/ashwoodall.github.io/static/media/codepenLogo.4e723b58.svg",
+    "static/media/githubLogo.svg": "/ashwoodall.github.io/static/media/githubLogo.f32087c8.svg",
+    "static/media/linkedinLogo.svg": "/ashwoodall.github.io/static/media/linkedinLogo.065911d5.svg",
+    "static/media/twitterLogo.svg": "/ashwoodall.github.io/static/media/twitterLogo.04aaef82.svg"
+  }
+}
