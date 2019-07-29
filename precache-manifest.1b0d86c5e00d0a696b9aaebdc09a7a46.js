@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6da6dd36003d212e38a0f61207928cb7",
+    "revision": "42f405317f61753f7ddfebee51dbb380",
     "url": "/index.html"
   },
   {
-    "revision": "a74ed4091d38ca62f9f2",
+    "revision": "1d3028f28eab4244d3a9",
     "url": "/static/css/main.87708951.chunk.css"
   },
   {
-    "revision": "c4f2f32765567921630e",
-    "url": "/static/js/2.3c7107fa.chunk.js"
+    "revision": "407d1aa1e9fd34508240",
+    "url": "/static/js/2.0de4b7fa.chunk.js"
   },
   {
-    "revision": "a74ed4091d38ca62f9f2",
-    "url": "/static/js/main.54dd7bae.chunk.js"
+    "revision": "1d3028f28eab4244d3a9",
+    "url": "/static/js/main.5b3e3b7a.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e43e97c2174e27decb9fef9dc0b55cd8",
     "url": "/static/media/AshleyWoodallResume.e43e97c2.pdf"
+  },
+  {
+    "revision": "babe4e7efb6c2afd1323b45c575f569e",
+    "url": "/static/media/Minime.babe4e7e.gif"
   },
   {
     "revision": "4e723b5871b3105e191d576f27b44bf7",
