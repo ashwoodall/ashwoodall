@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-
+import  Minime from "../assets/Minime.gif";
 const Wrapper = styled.div`
   height: 100vh;
   display: flex;
@@ -11,6 +11,16 @@ const Wrapper = styled.div`
 
   p {
     text-align: left;
+  }
+
+  div {
+    display: flex;
+    flex-direction: row;
+  }
+
+  img {
+    height: 123px;
+    width: auto;
   }
 
   @media (min-width: 768px) {
@@ -33,7 +43,11 @@ const Wrapper = styled.div`
 
 const About = () => (
   <Wrapper>
-    <h1>Hi, I'm Ash</h1>
+    <div>
+
+      <img src={Minime} alt="sprite" /><h1>Hi, I'm Ash</h1>
+
+    </div>
     <p>
       Software engineer and code educator specializing in User Experience and
       Front-End development. Making all kinds of cool things in Austin, TX.
