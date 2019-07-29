@@ -14,6 +14,8 @@ const ImgContainer = styled.div`
   width: 75vw;
   height: auto;
 
+  max-width: 100vh;
+
   .AWlogo {
     fill: #a9c01b;
   }

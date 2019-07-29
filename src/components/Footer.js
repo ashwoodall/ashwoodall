@@ -5,6 +5,8 @@ import githubLogo from "../assets/githubLogo.svg";
 import codepenLogo from "../assets/codepenLogo.svg";
 import twitterLogo from "../assets/twitterLogo.svg";
 import linkedinLogo from "../assets/linkedinLogo.svg";
+import resumeLogo from "../assets/resumeLogo.svg";
+import resume from "../assets/AshleyWoodallResume.pdf";
 
 const FooterContainer = styled.div`
   background-color: #505167;
@@ -67,6 +69,9 @@ const Footer = () => {
         rel="noopener noreferrer"
       >
         <img src={twitterLogo} alt="twitter logo" />
+      </a>
+      <a href={resume} download="AshleyWoodallResume.pdf">
+      <img src={resumeLogo} alt="resume logo" />
       </a>
     </FooterContainer>
   );
