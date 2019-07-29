@@ -38,6 +38,10 @@ const About = () => (
       Software engineer and code educator specializing in User Experience and
       Front-End development. Making all kinds of cool things in Austin, TX.
     </p>
+    <p>
+    Always looking to discuss new adventures, open source, SVG animation, 
+    shih-tzus, and pizza opportunities.
+    </p>
   </Wrapper>
 );
 
